@@ -7,7 +7,7 @@
 ![Release](https://img.shields.io/github/v/release/Eider-Fabian/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/Eider-Fabian/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/Eider-Fabian/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/Eider-Fabian/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/Eider-Fabian/legion-del-mal?cacheSeconds=60)
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
