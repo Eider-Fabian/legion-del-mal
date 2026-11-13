@@ -4,4 +4,4 @@
 ## Lugar iconico en el universo 
 
 
-construida e cristales zzzz
+construida en cristales zzzz
