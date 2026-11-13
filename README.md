@@ -9,7 +9,7 @@
 ![Último commit](https://img.shields.io/github/last-commit/Eider-Fabian/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/Eider-Fabian/legion-del-mal?cacheSeconds=60)
 
-# 🦹‍♂️ La Legión del Mal - Desde remoto y Local
+# 🦹‍♂️ La Legión del Mal
 
 
  
