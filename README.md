@@ -9,7 +9,9 @@
 ![Último commit](https://img.shields.io/github/last-commit/Eider-Fabian/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/Eider-Fabian/legion-del-mal?cacheSeconds=60)
 
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal - Desde local
+
+### Aprendiz de ADSO intentando aprender git y GitHub
 
 
  
